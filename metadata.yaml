@@ -1,0 +1,32 @@
+_repo: Kosken-tarina-b-Kolminaytoksinen-naytelma_75405
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Halme, Kaarle
+    birthdate: 1864
+    deathdate: 1946
+    gutenberg_agent_id: '33643'
+    url: http://www.gutenberg.org/2009/agents/33643
+    wikipedia: https://fi.wikipedia.org/wiki/Kaarle_Halme
+description: 'Earlier version had title: Herran ääni.'
+edition_note: Toinen, korjattu painos
+gutenberg_issued: '2025-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75405'
+language: fi
+pgterms:marc905: 20171204062949halme
+pgterms:marc906: '1920'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: $aHämeenlinna :$bArvi A. Karisto, $c1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Seuranäytelmiä N:o 210
+subjects:
+- !lcsh 'Finnish drama -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Kosken tarina : $b Kolminäytöksinen näytelmä'
+url: http://www.gutenberg.org/ebooks/75405
